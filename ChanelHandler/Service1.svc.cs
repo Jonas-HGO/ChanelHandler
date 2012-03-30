@@ -7,7 +7,8 @@ using System.ServiceModel.Web;
 using System.Text;
 
 // A comment by Sjoerd to Jonas
-
+// More comments
+// A commit
 
 namespace ChanelHandler
 {
