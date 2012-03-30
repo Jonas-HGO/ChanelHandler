@@ -16,6 +16,8 @@ namespace ChanelHandler
         [OperationContract]
         string GetData(int value);
 
+        //String from Jonas
+
         [OperationContract]
         CompositeType GetDataUsingDataContract(CompositeType composite);
 
